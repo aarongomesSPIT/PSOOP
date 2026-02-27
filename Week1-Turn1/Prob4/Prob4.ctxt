@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Prob4
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Prob4\ here.\r\n\ Design\ a\ Java\ application\ that\:\r\nAccepts\ three\ opinions\ about\ Java\r\nPrints\:The\ first\ argument\ in\ uppercase\r\nThe\ second\ argument\ in\ lowercase\r\nThe\ third\ argument\ as-is\r\nYou\ may\ use\ toUpperCase(),toLowerCase()functions.Search\ on\ the\ internet\ is\ permitted\r\n\ @brief\r\n\ @author\ Aaron\ Gomes\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

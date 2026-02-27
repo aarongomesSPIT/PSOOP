@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Prob1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Prob1\ here.\r\n\r\n\ @brief\ Prints\ your\ firstname,\ middlename,\ and\ lastname\ from\ args\r\n\ @author\ Aaron\ Gomes\r\n\ @version\ 28/01/2026\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
