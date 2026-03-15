@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\n\ Write\ a\ description\ of\ class\ Book\ here.\n\n\ @brief\ A\ definition\ for\ books\n\ @author\ Aaron\ Gomes\n\ @version\ 06/03/26\n
+comment1.params=maxDays
+comment1.target=void\ issueBook(int)
+comment2.params=maxDays\ isReferenceBook
+comment2.target=void\ issueBook(int,\ boolean)
+comment3.params=
+comment3.target=void\ displayBookDetails()
+comment4.params=bookId\ bookTitle\ isReference\ issueDays\ issueLimit
+comment4.target=Book(java.lang.String,\ java.lang.String,\ boolean,\ int,\ int)
+numComments=5

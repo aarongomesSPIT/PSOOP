@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=IssuedBook
+comment0.text=\n\ Write\ a\ description\ of\ class\ IssuedBook\ here.\n\ \n\ @brief\ A\ class\ to\ hold\ details\ of\ issued\ books\n\ @author\ Aaron\ Gomes\n\ @version\ 06/03/26\n
+comment1.params=
+comment1.target=void\ calculateFine()
+comment2.params=bookId\ bookTitle\ isReference\ issueDays\ issueLimit
+comment2.target=IssuedBook(java.lang.String,\ java.lang.String,\ boolean,\ int,\ int)
+numComments=3
