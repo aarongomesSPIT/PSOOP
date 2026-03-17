@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StreamBase
+comment0.text=\n\ Write\ a\ description\ of\ class\ StreamBase\ here.\n\n\ @author\ Aaron\ Gomes\n\ @version\ 13/03/26\n
+comment1.params=
+comment1.target=StreamBase()
+comment2.params=streamName\ seats
+comment2.target=StreamBase(java.lang.String,\ int)
+comment3.params=streamName
+comment3.target=boolean\ allocateSeat(java.lang.String)
+numComments=4

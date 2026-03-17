@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=AllocationDerived
+comment0.text=\n\ Write\ a\ description\ of\ class\ AllocationDerived\ here.\n\n\ @author\ Aaron\ Gomes\n\ @version\ 13/03/26\n
+comment1.params=
+comment1.target=AllocationDerived()
+comment2.params=rollNo\ score\ numberOfPreferences\ preferences
+comment2.target=AllocationDerived(int,\ double,\ int,\ java.lang.String[])
+comment3.params=candidates
+comment3.target=void\ sortCandidates(AllocationDerived[])
+comment4.params=candidates
+comment4.target=void\ allocateSeats(AllocationDerived[])
+comment5.params=candidates
+comment5.target=void\ displayAllocation(AllocationDerived[])
+numComments=6
