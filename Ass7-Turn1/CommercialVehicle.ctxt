@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CommercialVehicle
+comment0.text=\n\ Write\ a\ description\ of\ class\ CommercialVehicle\ here.\n\n\ @author\ Aaron\ Gomes\n\ @version\ 18/03/26\n
+comment1.params=
+comment1.target=double\ calculateParkingFee()
+comment2.params=VehicleNo
+comment2.target=CommercialVehicle(java.lang.String)
+numComments=3
