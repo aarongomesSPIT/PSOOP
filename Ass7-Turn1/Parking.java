@@ -1,7 +1,6 @@
 /**
  * Write a description of class Parking here.
  *
- * @brief The main test class
  * @author Aaron Gomes
  * @version 18/03/26
  */
@@ -40,9 +39,7 @@ public class Parking
         
         System.out.println("--- Parking Fee Details ---");
         for(int i = 0; i < noOfVehicles; i++){
-            //First calculate the parking fee
             vehicle[i].calculateParkingFee();
-            //Then only print the output
             vehicle[i].displayVehicleType();
             System.out.println();
         }

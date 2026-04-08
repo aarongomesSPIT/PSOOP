@@ -13,7 +13,6 @@ public class CommercialVehicle extends Vehicle
         return 2 * BASE_PARKING_FEE;
     }
     CommercialVehicle(String VehicleNo){
-        //Just pass the vehicle number to the parent
         super(VehicleNo);
     }
     

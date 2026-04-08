@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=UtilityBill
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ UtilityBill\ here.\r\n\ \r\n\ @brief\ A\ interface\ which\ uses\ Multiple\ inheritance\r\n\ @author\ Sparsh\r\n\ @version\ 01/04/26\r\n
+comment1.params=
+comment1.target=void\ displayTotalBill()
+numComments=2

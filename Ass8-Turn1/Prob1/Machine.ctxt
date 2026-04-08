@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Machine
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Machine\ here.\r\n\r\n\ @author\ Aaron\ Gomes\r\n\ @version\ 26/03/26\r\n
+comment1.params=
+comment1.target=void\ performOperation()
+comment2.params=
+comment2.target=double\ calculateMaintenanceCost()
+comment3.params=
+comment3.target=void\ displayBasicInfo()
+comment4.params=id\ manufacturer\ operatingHrs
+comment4.target=Machine(int,\ java.lang.String,\ int)
+numComments=5

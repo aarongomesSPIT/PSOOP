@@ -12,7 +12,6 @@ public class ElectricVehicle extends FuelVehicle
         return BASE_PARKING_FEE - 10;
     }
     ElectricVehicle(String vehicleNo){
-        //Just pass the vehicle number to the parent
         super(vehicleNo);
     }
 }

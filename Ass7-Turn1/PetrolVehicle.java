@@ -13,7 +13,6 @@ public class PetrolVehicle extends FuelVehicle
     }
     
     PetrolVehicle(String vehicleNo){
-        //Just pass the vehicle number to the parent
         super(vehicleNo);
     }
 }
