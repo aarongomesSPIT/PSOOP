@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CourseCertificationSystem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CourseCertificationSystem\ here.\r\n\ \ \r\n\ @brief\ A\ program\ to\ calculate\ if\ a\ student\ passes\ or\ fails\ and\ calculates\ all\ the\ info\r\n\ @author\ Aaaron\ Gomes\r\n\ @version\ 08/04/26\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

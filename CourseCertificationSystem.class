@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CertificationRules
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ CertificationRules\ here.\r\n\r\n\ @author\ Aaron\ Gomes\r\n\ @version\ 08/04/26\r\n
+comment1.params=
+comment1.target=boolean\ isMarksEligible()
+numComments=2

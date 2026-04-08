@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=StudentCandidate
+comment1.params=
+comment1.target=void\ readId()
+comment2.params=
+comment2.target=void\ readMarks()
+comment3.params=
+comment3.target=void\ readAttendance()
+comment4.params=
+comment4.target=boolean\ isAttendanceEligible()
+comment5.params=
+comment5.target=void\ calculateGrade()
+comment6.params=
+comment6.target=boolean\ isMarksEligible()
+comment7.params=
+comment7.target=java.lang.String\ isCertified()
+comment8.params=
+comment8.target=void\ displayReport()
+comment9.params=
+comment9.target=StudentCandidate()
+numComments=10

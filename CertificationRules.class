@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AttendancePolicy
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ AttendancePolicy\ here.\r\n\r\n\ @author\ Aaron\ Gomes\r\n\ @version\ 08/04/26\r\n
+comment1.params=
+comment1.target=void\ readAttendance()
+comment2.params=
+comment2.target=boolean\ isAttendanceEligible()
+numComments=3
