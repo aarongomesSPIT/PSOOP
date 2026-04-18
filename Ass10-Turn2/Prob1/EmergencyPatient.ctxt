@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EmergencyPatient
+comment0.text=\n\ Write\ a\ description\ of\ class\ EmergencyPatient\ here.\n\n\ @author\ Aaron\ Gomes\n\ @version\ 10/04/26\n
+comment1.params=
+comment1.target=double\ calculateBill()
+comment2.params=
+comment2.target=void\ readEmergencyCharges()
+comment3.params=
+comment3.target=double\ getEmergencyCharges()
+comment4.params=
+comment4.target=EmergencyPatient()
+numComments=5

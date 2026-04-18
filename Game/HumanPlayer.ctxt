@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HumanPlayer
+comment1.params=name
+comment1.target=boolean\ isAlpha(java.lang.String)
+comment2.params=
+comment2.target=int\ getGuess()
+comment3.params=
+comment3.target=void\ win()
+comment4.params=tempName
+comment4.target=void\ getName(java.lang.String)
+comment5.params=tName
+comment5.target=HumanPlayer(java.lang.String)
+numComments=6

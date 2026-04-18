@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=InsuranceService
+comment0.text=\n\ Write\ a\ description\ of\ interface\ InsuranceService\ here.\n\n\ @author\ Aaron\ Gomes\n\ @version\ 15/04/26\n
+comment1.params=
+comment1.target=void\ readInsuranceCoverage()
+comment2.params=
+comment2.target=double\ getInsuranceCoverage()
+numComments=3

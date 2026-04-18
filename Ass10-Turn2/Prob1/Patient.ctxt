@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Patient
+comment1.params=name
+comment1.target=boolean\ isAlpha(java.lang.String)
+comment2.params=
+comment2.target=void\ readPatientDetails()
+comment3.params=
+comment3.target=double\ calculateBill()
+numComments=4

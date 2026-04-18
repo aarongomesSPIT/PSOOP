@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HealthExcept
+comment0.text=\n\ Write\ a\ description\ of\ class\ HealthExcept\ here.\n\n\ @brief\ A\ custom\ Health\ Exception\ class\ to\ handle\ some\ Exceptions\n\ @author\ Aaron\ Gomes\n\ @version\ 15/04/26\n
+comment1.params=msg
+comment1.target=HealthExcept(java.lang.String)
+numComments=2

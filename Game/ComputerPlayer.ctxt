@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ComputerPlayer
+comment0.text=\n\ Write\ a\ description\ of\ class\ ComputerPlayer\ here.\n\n\ @breif\ Implements\ basic\ random\ number\ guesses\ for\ the\ computer\n\ @author\ Aaron\ Gomes\n\ @version\ 17/04/26\n
+comment1.params=
+comment1.target=int\ getGuess()
+comment2.params=
+comment2.target=void\ win()
+numComments=3

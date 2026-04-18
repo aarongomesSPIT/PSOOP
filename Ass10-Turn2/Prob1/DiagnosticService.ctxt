@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DiagnosticService
+comment0.text=\n\ Write\ a\ description\ of\ interface\ DiagnosticService\ here.\n\n\ @author\ Aaron\n\ @version\ 10/04/26\n
+comment1.params=
+comment1.target=void\ readDiagnosticCharges()
+comment2.params=
+comment2.target=double\ getDiagnosticCharges()
+numComments=3
